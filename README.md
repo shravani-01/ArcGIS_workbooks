@@ -10,7 +10,7 @@ https://sdsugeo.maps.arcgis.com/apps/mapviewer/index.html?layers=0ca347b33d664a9
 
 3. Distance between Hospitals and Diabetics patients who rely on medication (non-insulin)
    
-https://arcg.is/0SrGC9![image](https://github.com/shravani-01/ArcGIS_workbooks/assets/45116433/10d373d9-bcd4-4f16-a030-ae6f423c293c)
+https://arcg.is/0SrGC9
 
 The two map layers added are,
 
