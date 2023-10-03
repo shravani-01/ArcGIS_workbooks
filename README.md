@@ -29,6 +29,9 @@ The two map layers added are,
 Analysis: 
 
 This analysis shows that the diabetic patients living further away from the hospitals rely on prescription drugs for non-insulin dependent diabetes. However, the market potential index is low for people living near the hospitals as majority of them do not consume medication.  The people who fall under the intersection of both the categories are bound to have an average potential.
-![image](https://github.com/shravani-01/ArcGIS_workbooks/assets/45116433/53eacafe-1080-4c16-a346-dfb97f93aff2)
 
+4. Hot Spot Analysis of Mortality Rate Ratio
+
+   https://arcg.is/1TmmXK0
+   
 
